@@ -1,2 +1,2 @@
-# regular_expressions
-Zhigailov Pavel
+# Регулярные выражения
+Жигайлов Павел
