@@ -1,3 +1,8 @@
+/*
+Внимательно прочитай условие задачи
+Замените домены на ссылки вида '<a href="http://site.ru">site.ru</a>'.
+у тебя сейчас sss http://site.ru zzz http://site.com kkk
+*/
 
 //2
 console.log("// Task %d //",2);
